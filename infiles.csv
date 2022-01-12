@@ -1,0 +1,58 @@
+﻿groupname,foldername,samplename,filename_plus,filename_minus,default
+Palomar et al,TSS RNAseq Col-0 average,Col-0 TSS RNAseq Average,TSS_RNAseq_plus_cov.bed,TSS_RNAseq_minus_cov.bed,0
+Palomar et al,TSS RNAseq Col-0 replicates,Col-0 TSS RNAseq Replicate 1,Col-0Terminator-treated_five_prime_plus_cov.bed,Col-0Terminator-treated_five_prime_minus_cov.bed,0
+Palomar et al,TSS RNAseq Col-0 replicates,Col-0 TSS RNAseq Replicate 2,DayTerminator-treated1_five_prime_plus_cov.bed,DayTerminator-treated1_five_prime_minus_cov.bed,0
+Palomar et al,TSS RNAseq Col-0 replicates,Col-0 TSS RNAseq Replicate 3,DayTerminator-treated2_five_prime_plus_cov.bed,DayTerminator-treated2_five_prime_minus_cov.bed,0
+Palomar et al,ptChIP Col-0 14do average,Col-0 ptChIP 14do,RpoBcol_corrected_for_browser.bed,NA,1
+Palomar et al,ptChIP Col-0 14do replicates,Col-0 ptChIP 14do Replicate 1,RpoBcol_1_corrected_for_browser.bed,NA,0
+Palomar et al,ptChIP Col-0 14do replicates,Col-0 ptChIP 14do Replicate 2,RpoBcol_2_corrected_for_browser.bed,NA,0
+Palomar et al,ptChIP Col-0 14do replicates,Col-0 ptChIP 14do Replicate 3,RpoBcol_3_corrected_for_browser.bed,NA,0
+Palomar et al,ptChIP sig mutants 4do averages,Col-0 ptChIP 4do,Sigcol_corrected_for_browser.bed,NA,0
+Palomar et al,ptChIP sig mutants 4do averages,sig2 ptChIP 4do,Sig2_corrected_for_browser.bed,NA,0
+Palomar et al,ptChIP sig mutants 4do averages,sig6 ptChIP 4do,Sig6_corrected_for_browser.bed,NA,0
+Palomar et al,ptChIP sig mutants 4do replicates,Col-0 ptChIP 4do Replicate 1,Sigcol_1_corrected_for_browser.bed,NA,0
+Palomar et al,ptChIP sig mutants 4do replicates,Col-0 ptChIP 4do Replicate 2,Sigcol_2_corrected_for_browser.bed,NA,0
+Palomar et al,ptChIP sig mutants 4do replicates,Col-0 ptChIP 4do Replicate 3,Sigcol_3_corrected_for_browser.bed,NA,0
+Palomar et al,ptChIP sig mutants 4do replicates,sig2 ptChIP 4do Replicate 1,Sig2_1_corrected_for_browser.bed,NA,0
+Palomar et al,ptChIP sig mutants 4do replicates,sig2 ptChIP 4do Replicate 2,Sig2_2_corrected_for_browser.bed,NA,0
+Palomar et al,ptChIP sig mutants 4do replicates,sig2 ptChIP 4do Replicate 3,Sig2_3_corrected_for_browser.bed,NA,0
+Palomar et al,ptChIP sig mutants 4do replicates,sig6 ptChIP 4do Replicate 1,Sig6_1_corrected_for_browser.bed,NA,0
+Palomar et al,ptChIP sig mutants 4do replicates,sig6 ptChIP 4do Replicate 2,Sig6_2_corrected_for_browser.bed,NA,0
+Palomar et al,ptChIP sig mutants 4do replicates,sig6 ptChIP 4do Replicate 3,Sig6_3_corrected_for_browser.bed,NA,0
+Palomar et al,ptChIP xlinking optimization averages,anti-HA ptChIP pTAC12-HA 0h,PTACnox_corrected_for_browser.bed,NA,0
+Palomar et al,ptChIP xlinking optimization averages,anti-HA ptChIP pTAC12-HA 1h,PTAC1_corrected_for_browser.bed,NA,0
+Palomar et al,ptChIP xlinking optimization averages,anti-HA ptChIP pTAC12-HA 4h,PTAC4_corrected_for_browser.bed,NA,0
+Palomar et al,ptChIP xlinking optimization averages,anti-HA ptChIP pTAC12-HA 16h,PTAClong_corrected_for_browser.bed,NA,0
+Palomar et al,ptChIP xlinking optimization averages,anti-RpoB ptChIP Col-0 0h,RpoBABnox_corrected_for_browser.bed,NA,0
+Palomar et al,ptChIP xlinking optimization averages,anti-RpoB ptChIP Col-0 1h,RpoBAB1_corrected_for_browser.bed,NA,0
+Palomar et al,ptChIP xlinking optimization averages,anti-RpoB ptChIP Col-0 4h,RpoBAB4_corrected_for_browser.bed,NA,0
+Palomar et al,ptChIP xlinking optimization averages,anti-RpoB ptChIP no antibody Col-0 0h,noAnox_corrected_for_browser.bed,NA,0
+Palomar et al,ptChIP xlinking optimization averages,anti-RpoB ptChIP no antibody Col-0 1h,noA1_corrected_for_browser.bed,NA,0
+Palomar et al,ptChIP xlinking optimization averages,anti-RpoB ptChIP no antibody Col-0 4h,noA4_corrected_for_browser.bed,NA,0
+Palomar et al,ptChIP xlinking optimization replicates,anti-HA ptChIP pTAC12-HA 0h Replicate 1,PTACnox_1_corrected_for_browser.bed,NA,0
+Palomar et al,ptChIP xlinking optimization replicates,anti-HA ptChIP pTAC12-HA 0h Replicate 2,PTACnox_2_corrected_for_browser.bed,NA,0
+Palomar et al,ptChIP xlinking optimization replicates,anti-HA ptChIP pTAC12-HA 0h Replicate 3,PTACnox_3_corrected_for_browser.bed,NA,0
+Palomar et al,ptChIP xlinking optimization replicates,anti-HA ptChIP pTAC12-HA 1h Replicate 1,PTAC1_1_corrected_for_browser.bed,NA,0
+Palomar et al,ptChIP xlinking optimization replicates,anti-HA ptChIP pTAC12-HA 1h Replicate 2,PTAC1_2_corrected_for_browser.bed,NA,0
+Palomar et al,ptChIP xlinking optimization replicates,anti-HA ptChIP pTAC12-HA 1h Replicate 3,PTAC1_3_corrected_for_browser.bed,NA,0
+Palomar et al,ptChIP xlinking optimization replicates,anti-HA ptChIP pTAC12-HA 16h Replicate 1,PTAClong_1_corrected_for_browser.bed,NA,0
+Palomar et al,ptChIP xlinking optimization replicates,anti-HA ptChIP pTAC12-HA 16h Replicate 2,PTAClong_2_corrected_for_browser.bed,NA,0
+Palomar et al,ptChIP xlinking optimization replicates,anti-HA ptChIP pTAC12-HA 4h Replicate 1,PTAC4_1_corrected_for_browser.bed,NA,0
+Palomar et al,ptChIP xlinking optimization replicates,anti-HA ptChIP pTAC12-HA 4h Replicate 2,PTAC4_2_corrected_for_browser.bed,NA,0
+Palomar et al,ptChIP xlinking optimization replicates,anti-HA ptChIP pTAC12-HA 4h Replicate 3,PTAC4_3_corrected_for_browser.bed,NA,0
+Palomar et al,ptChIP xlinking optimization replicates,anti-RpoB ptChIP Col-0 0h Replicate 1,RpoBABnox_1_corrected_for_browser.bed,NA,0
+Palomar et al,ptChIP xlinking optimization replicates,anti-RpoB ptChIP Col-0 0h Replicate 3,RpoBABnox_3_corrected_for_browser.bed,NA,0
+Palomar et al,ptChIP xlinking optimization replicates,anti-RpoB ptChIP Col-0 1h Replicate 1,RpoBAB1_1_corrected_for_browser.bed,NA,0
+Palomar et al,ptChIP xlinking optimization replicates,anti-RpoB ptChIP Col-0 1h Replicate 2,RpoBAB1_2_corrected_for_browser.bed,NA,0
+Palomar et al,ptChIP xlinking optimization replicates,anti-RpoB ptChIP Col-0 1h Replicate 3,RpoBAB1_3_corrected_for_browser.bed,NA,0
+Palomar et al,ptChIP xlinking optimization replicates,anti-RpoB ptChIP Col-0 4h Replicate 1,RpoBAB4_1_corrected_for_browser.bed,NA,0
+Palomar et al,ptChIP xlinking optimization replicates,anti-RpoB ptChIP Col-0 4h Replicate 2,RpoBAB4_2_corrected_for_browser.bed,NA,0
+Palomar et al,ptChIP xlinking optimization replicates,anti-RpoB ptChIP Col-0 4h Replicate 3,RpoBAB4_3_corrected_for_browser.bed,NA,0
+Palomar et al,ptChIP xlinking optimization replicates,anti-RpoB ptChIP Col-0 0h no antibody Replicate 1,noAnox_1_corrected_for_browser.bed,NA,0
+Palomar et al,ptChIP xlinking optimization replicates,anti-RpoB ptChIP Col-0 0h no antibody Replicate 2,noAnox_2_corrected_for_browser.bed,NA,0
+Palomar et al,ptChIP xlinking optimization replicates,anti-RpoB ptChIP Col-0 0h no antibody Replicate 3,noAnox_3_corrected_for_browser.bed,NA,0
+Palomar et al,ptChIP xlinking optimization replicates,anti-RpoB ptChIP Col-0 1h no antibody Replicate 1,noA1_1_corrected_for_browser.bed,NA,0
+Palomar et al,ptChIP xlinking optimization replicates,anti-RpoB ptChIP Col-0 1h no antibody Replicate 2,noA1_2_corrected_for_browser.bed,NA,0
+Palomar et al,ptChIP xlinking optimization replicates,anti-RpoB ptChIP Col-0 1h no antibody Replicate 3,noA1_3_corrected_for_browser.bed,NA,0
+Palomar et al,ptChIP xlinking optimization replicates,anti-RpoB ptChIP Col-0 4h no antibody Replicate 1,noA4_2_corrected_for_browser.bed,NA,0
+Palomar et al,ptChIP xlinking optimization replicates,anti-RpoB ptChIP Col-0 4h no antibody Replicate 2,noA4_3_corrected_for_browser.bed,NA,0
